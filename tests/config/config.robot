@@ -2,6 +2,6 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${URL}     http://127.0.0.1:5500/index.html
+${URL}     https://bobmw.github.io/consultor_de_endereco/
 
 ${BROWSER}  chrome
