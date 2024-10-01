@@ -1,5 +1,10 @@
 # Automação testa Consulta de Endereço
 
+**Aplicação que foi testada**
+_Repositório:_ https://github.com/bobmw/consultor_de_endereco
+
+_Deploy:_ https://bobmw.github.io/consultor_de_endereco/
+
 ## Estrutura de Pastas
 
 ```
